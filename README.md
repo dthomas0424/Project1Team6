@@ -12,9 +12,9 @@ Description of the source of data
 FRED is an online database consisting of hundreds of thousands of economic data time series from scores of national, international, public, and private sources.
 
 Questions the team hopes to answer with the data
-Does interest rate impact home price?
-Impact of housing price for number of rental units?
-Growth of income vs growth of house price? (Median sells price of houses sold vs Median household income)
+Does interest rate impact home price? ( 30 year fixed rate vs Median Sales Price of House)
+Impact of housing price for number of rental units?  (Housing Inventory Estim vs Median Sales Price of Home)
+Growth of income vs growth of house price? (Median sales price of houses sold vs Median household income)
 Construction spending vs new residential? (total construction spending vs Median sales price for new houses Sold)
 
 The data exploration phase of the project
