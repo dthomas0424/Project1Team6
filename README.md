@@ -1,11 +1,10 @@
 # Project1Team6
 
-Project Goal: 
+  Project Goal: To test common macro economic variables suitability in predicting Median Home Sale Prices. Various forms of testing were performed: time series and regression analysis.
 
-Selected topic
-Home prices and Economic data (2005-2022)
+  The team used the FRED (Federal Reserve Economic Data) as the primary source of data. FRED is an online database consisting of hundreds of thousands of economic data time series from scores of national,   international, public, and private sources. The Labor of Burea Statistics(BLS.gov) was also used for CPI data.
 
-The reason the topic was selected
+SThe reason the topic was selected
 To see the effect of housing prices over time
 
 Description of the source of data
