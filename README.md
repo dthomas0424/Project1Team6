@@ -11,6 +11,11 @@ Description of the source of data
 FRED is an online database consisting of hundreds of thousands of economic data time series from scores of national, international, public, and private sources.
 
 Questions the team hopes to answer with the data
+
+Questions:
+1. Does the Dow Jones Industrial Average have predictive ability or correlate with the Median Sales Price
+2. Has Median Income increased in-line with Housing Prices
+3. 
 Does interest rate impact home price? ( 30 year fixed rate vs Median Sales Price of House)
 Impact of housing price for number of rental units?  (Housing Inventory Estim vs Median Sales Price of Home)
 Growth of income vs growth of house price? (Median sales price of houses sold vs Median household income)
