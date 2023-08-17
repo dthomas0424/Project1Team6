@@ -16,18 +16,19 @@ Questions:
 1. Does the Dow Jones Industrial Average have predictive ability or correlate with the Median Sales Price
 2. Has Median Income increased in-line with Housing Prices
 3. Impact of housing price on number of rental occupancies and cost thereof? (Rental Occupancy & Rent Price Index vs Median Sales Price of Home)
-4. 
-Does interest rate impact home price? ( 30 year fixed rate vs Median Sales Price of House)
+4. Total Residential construction spending and Median houses sale price have any trends or correlations?
+5. 
+6. Does interest rate impact home price? ( 30 year fixed rate vs Median Sales Price of House)
 
 Growth of income vs growth of house price? (Median sales price of houses sold vs Median household income)
-Construction spending vs new residential? (total construction spending vs Median sales price for new houses Sold)
+
 
 The data exploration phase of the project
 
 
 
 Technologies, languages, tools, and algorithms used throughout the project
-Excel, Python, Pandas, Matplotlib, Jupyter notebook, 
+Excel, Python, Pandas, Matplotlib, Jupyter notebook, PowerPoint
 
 
 Variables of Interest:
