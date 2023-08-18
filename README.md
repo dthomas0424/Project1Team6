@@ -31,4 +31,3 @@ Technologies, languages, tools, and algorithms used throughout the project
 Excel, Python, Pandas, Matplotlib, Jupyter notebook, PowerPoint
 
 
-Variables of Interest:
