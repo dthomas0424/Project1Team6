@@ -17,7 +17,7 @@ Questions:
 2. Has Median Income increased in-line with Housing Prices
 3. Impact of housing price on number of rental occupancies and cost thereof? (Rental Occupancy & Rent Price Index vs Median Sales Price of Home)
 4. Total Residential construction spending and Median houses sale price have any trends or correlations?
-5. 
+5. What impact does Inflation have on median home sale prices?
 6. Does interest rate impact home price? ( 30 year fixed rate vs Median Sales Price of House)
 
 Growth of income vs growth of house price? (Median sales price of houses sold vs Median household income)
